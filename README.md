@@ -38,5 +38,6 @@ This repository is intentionally organized by CAPT surface / specialization. Eac
 - CAPTsec Purple
 - CAPT Arena
 - CAPT Mobile
+- CAPT Hackathon
 
 Each directory contains a minimal README so Git tracks it and so the intended scope is explicit before deeper planning or implementation is added.
