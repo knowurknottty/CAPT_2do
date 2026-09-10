@@ -2,6 +2,8 @@
 
 **Priority:** Inversion Labs product value first, humanitarian usefulness second, realizable prize value third.
 
+**Council basis:** final 72-vessel parallel CAPT wave; 55 accepted model-role outputs, with Nano-Omni and Qwen 3.7 blocked by the existing OpenRouter workspace guardrail and one unresolved Nemotron Ultra output cell. See `PARALLEL_COUNCIL_REVIEW_2026-09-09.md`.
+
 This plan is based on the current official rules for:
 
 - Amazon Build, Ship, Shape: https://amazonappdev2026.devpost.com/rules
@@ -15,7 +17,7 @@ This plan is based on the current official rules for:
 |---|---|---|---|---|---|
 | 1 | **CAPT Guardian / Relay** | Amazon — Alexa+ | `capt-workspace-mcp`, selected CAPT governance concepts | **new narrow public repo** | GO |
 | 2 | **Flock-Sucker Sovereign Field Sentinel** | Nebius x NVIDIA — Physical AI | `Flock-Sucker` | existing public repo, significantly updated | GO after license gate |
-| 3 | **CAPT Sovereign** | Nebius x NVIDIA — Personal AI | `CAPT-Inversion-Labs`, `capt-workspace-mcp`, CAPT Node concepts | **new self-contained public repo** | GO |
+| 3 | **CAPT Sovereign** | Nebius x NVIDIA — Personal AI | `CAPT-Inversion-Labs`, `capt-workspace-mcp`, CAPT Node concepts | **new self-contained public repo** | **CONDITIONAL GO after Amazon + Flock** |
 | 4 | **CAPTsec Apertus Gauntlet** | Hack Apertus — Readiness / Red-Teaming | CAPTsec / Arena concepts only | **new repo created on/after Oct 1** | HOLD |
 | 5 | **OpenWatch Apertus** | Hack Apertus — Adoption / Own Project, if Oct-1 challenge fit remains | Flock concepts only; no code dependency by default | **new repo created on/after Oct 1** | HOLD |
 
@@ -147,6 +149,8 @@ The phone remains the evidence collector and privacy boundary. Nemotron on Nebiu
 ---
 
 # 3. Nebius x NVIDIA — CAPT Sovereign / Personal AI
+
+**Status: CONDITIONAL GO — execute only after Amazon Guardian and Flock-Sucker are on track.**
 
 ## Why submit a second NVIDIA project
 
